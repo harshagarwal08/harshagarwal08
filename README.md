@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I'm Harsh!<br><br>- 🔭 I’m working as a full-stack software developer at AlaanPay.<br>- 📚 Currently learning new tools and technologies used in Full-Stack Development.<br>- ⚡ In my free time I either scroll reels on Instagram or lift weights at the gym.</p>
+<p align="left">I'm Harsh!<br><br>- 🔭 I’m working as a full-stack software developer at Alaan (UAE-based Fintech startup).<br>- 📚 Currently learning new tools and technologies used in Full-Stack Development.<br>- ⚡ In my free time, I either laugh at memes on Instagram/Twitter or lift weights at the gym.</p>
 
 ###
 
